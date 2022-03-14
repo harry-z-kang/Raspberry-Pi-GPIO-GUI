@@ -1,5 +1,5 @@
 {
-  "name": "Raspberry-Pi-Simple-Web-GPIO-GUI",
+  "name": "rpi-gpio-gui",
   "version": "1.0.0",
   "private": true,
   "scripts": {
